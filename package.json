@@ -2,7 +2,7 @@
   "name": "@imchiennb/table",
   "license": "MIT",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.2",
   "author": "@imchiennb",
   "keywords": [
     "React",
@@ -11,7 +11,8 @@
   ],
   "scripts": {
     "dev": "vite",
-    "build": "tsup"
+    "build": "tsup",
+    "publish": "npm publish"
   },
   "dependencies": {
     "react": "^18.0.0",
